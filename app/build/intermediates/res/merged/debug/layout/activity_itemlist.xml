@@ -1,0 +1,13 @@
+<FrameLayout
+    android:id="@+id/list_item"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="josedlujan.compras.de.lista.app.com.applistadecompras.Activities.ItemList"
+    tools:ignore="MergeRootFrame"
+
+    />
+
+
+<!-- From: file:/C:/Users/leone/Downloads/Proyectos/android_cfpremium-master/android_cfpremium-master/AppListadeCompras/app/src/main/res/layout/activity_itemlist.xml -->
